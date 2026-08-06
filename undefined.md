@@ -73,7 +73,7 @@
 * **방법 A** — 브레이징 부위를 가열하여 동관을 분리합니다.
 * **방법 B** — 동관을 절단하여 분리합니다.
 
-![동관 절단 방식 예시](.gitbook/assets/imagesimage19.png)
+<img src=".gitbook/assets/imagesimage19.png" alt="동관 절단 방식 예시" width="375">
 
 ※ 사진은 **동관 절단 방식**을 예시로 보여줍니다.
 {% endstep %}
@@ -103,11 +103,11 @@
 
 <figure><img src=".gitbook/assets/Image_20260806144025_306_2.png" alt=""><figcaption></figcaption></figure>
 
-![동관 작업](.gitbook/assets/imagesimage23.png)
+<img src=".gitbook/assets/imagesimage23.png" alt="동관 작업" width="375">
 
-![동관 작업](.gitbook/assets/imagesimage13.png)
+<img src=".gitbook/assets/imagesimage13.png" alt="동관 작업" width="375">
 
-![동관 작업](.gitbook/assets/imagesimage22.png)
+<img src=".gitbook/assets/imagesimage22.png" alt="동관 작업" width="375">
 
 브레이징 작업 전에 다음 사항을 확인합니다.
 
@@ -217,7 +217,7 @@
 
 ![배선 연결](.gitbook/assets/imagesimage4.png)
 
-![배선 연결](.gitbook/assets/imagesimage7.png)
+<img src=".gitbook/assets/imagesimage7.png" alt="배선 연결" width="375">
 
 ③ **하단 패드**를 장착합니다.
 
@@ -229,7 +229,7 @@
 
 ![조립 완료](.gitbook/assets/imagesimage24.png)
 
-![배선 연결 완료 상태](.gitbook/assets/imagesimage18.jpg)
+<img src=".gitbook/assets/imagesimage18.jpg" alt="배선 연결 완료 상태" width="375">
 
 위 사진은 배선 연결이 완료된 상태입니다.
 
@@ -247,7 +247,7 @@
 
 냉매를 충전할 때에는 **냉매 용기를 눕힌 상태**로 충전하는 것이 더욱 원활하게 냉매를 공급할 수 있습니다.
 
-![냉매 용기](.gitbook/assets/imagesimage3.png)
+<img src=".gitbook/assets/imagesimage3.png" alt="냉매 용기" width="375">
 {% endstep %}
 
 {% step %}
