@@ -33,7 +33,7 @@
 
 ## 컴프레서 교체 준비물
 
-<table><thead><tr><th width="75" align="center">번호</th><th>부품</th></tr></thead><tbody><tr><td align="center">1</td><td>컴프레서</td></tr><tr><td align="center">2</td><td>전선단자 세트</td></tr><tr><td align="center">3</td><td>산소/가스 브레이징 토치</td></tr><tr><td align="center">4</td><td>냉매</td></tr><tr><td align="center">5</td><td>검은색 보온재</td></tr><tr><td align="center">6</td><td>방염포</td></tr><tr><td align="center">7</td><td><strong>동관 충전 밸브 (Copper Tube Charging Valve / Service Valve)</strong></td></tr><tr><td align="center">8</td><td>동관 커터</td></tr><tr><td align="center">9</td><td>브레이징 용접봉</td></tr><tr><td align="center">10</td><td>브레이징 토치</td></tr><tr><td align="center">11</td><td>동관 확관기</td></tr></tbody></table>
+<table><thead><tr><th width="75" align="center">번호</th><th>부품</th></tr></thead><tbody><tr><td align="center">1</td><td>컴프레서</td></tr><tr><td align="center">2</td><td>전선단자 세트</td></tr><tr><td align="center">3</td><td>산소/가스 브레이징 토치</td></tr><tr><td align="center">4</td><td>냉매</td></tr><tr><td align="center">5</td><td>검은색 보온재</td></tr><tr><td align="center">6</td><td>방염포</td></tr><tr><td align="center">7</td><td>동관 충전 밸브 (Copper Tube Charging Valve)</td></tr><tr><td align="center">8</td><td>동관 커터</td></tr><tr><td align="center">9</td><td>브레이징 용접봉</td></tr><tr><td align="center">10</td><td>브레이징 토치</td></tr><tr><td align="center">11</td><td>동관 확관기</td></tr></tbody></table>
 
 **전선단자 세트**
 
