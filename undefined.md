@@ -1,63 +1,63 @@
-# 챔버 점검 및 컴프레서 교체 교육
+# 챔버 점검 및 컴프레셔 교체 교육
 
 > **SINOPRO** · 교육 자료 · 2026. 08. 05.
 
 {% hint style="info" %}
-본 자료는 챔버(항온) 장비의 점검 방법과 컴프레서 교체 작업 절차를 설명하는 교육 자료입니다.&#x20;
+본 자료는 챔버(항온) 장비의 점검 방법과 컴프레셔 교체 작업 절차를 설명하는 교육 자료입니다.&#x20;
 
 브레이징·냉매 취급 작업이 포함되므로, 각 단계의 주의사항을 반드시 확인한 후 작업을 진행하세요.
 {% endhint %}
 
-## 점검 작업
+## 기본 점검
 
 1. **일체형 장비 전면 필터**의 청소 상태를 확인합니다.
 2. **매니폴드 게이지**를 연결하여 냉매 압력을 확인합니다.
-3.  **컴프레서 이상 여부**를 확인합니다.
+3.  **컴프레셔 이상 여부**를 확인합니다.
 
     ① 터치패널의 빨간색 버튼을 눌러 장비를 **RUNNING** 상태로 전환합니다.
 
     ![터치패널 RUNNING 전환](.gitbook/assets/imagesimage15.png)
 
-    ② 냉각팬과 컴프레서의 작동 여부를 확인합니다.
+    ② 냉각팬과 컴프레셔의 작동 여부를 확인합니다.
 
-    <table><thead><tr><th width="154">구분</th><th>상태</th></tr></thead><tbody><tr><td>정상 상태</td><td>컴프레서는 미세한 진동이 발생합니다. 냉각팬은 정상적으로 회전합니다.</td></tr><tr><td>이상 상태</td><td>컴프레서가 작동되지 않으며 <strong>'딸깍'</strong> 소리만 발생합니다.</td></tr></tbody></table>
+    <table><thead><tr><th width="154">구분</th><th>상태</th></tr></thead><tbody><tr><td>정상 상태</td><td>컴프레셔는 미세한 진동이 발생합니다. 냉각팬은 정상적으로 회전합니다.</td></tr><tr><td>이상 상태</td><td>컴프레셔가 작동되지 않으며 <strong>'딸깍'</strong> 소리만 발생합니다.</td></tr></tbody></table>
 4.  **릴레이 단자에 전류가 정상적으로 공급되는지** 확인합니다.
 
-    * 전류 공급이 정상일 경우에는 전류값이 안정적으로 유지됩니다.
-    * 제어 신호는 정상적으로 입력되지만 컴프레서가 작동하지 않는 경우에는, 보호회로가 동작하여 전류가 공급되지 않을 수 있습니다.
-    * 이 경우에는 기본적으로 **컴프레서 이상으로 판단하여 교체를 진행**합니다.
+    * 정상일 경우에는 전류값이 안정적으로 측정되어야 합니다.
+    * 제어 신호는 정상적으로 출력되지만 컴프레셔가 작동하지 않는 경우에는, 보호회로가 동작하여 전류가 공급되지 않을 수 있습니다.
+    * 이 경우에는 기본적으로 **컴프레셔 이상으로 판단하여 교체를 진행**합니다.
 
     ![릴레이 단자 확인](.gitbook/assets/imagesimage2.png)
 
     ![전류 확인](.gitbook/assets/imagesimage5.png)
 
-## 컴프레서 교체 준비물
+## 컴프레셔 교체 준비물
 
-<table><thead><tr><th width="75" align="center">번호</th><th>부품</th></tr></thead><tbody><tr><td align="center">1</td><td>컴프레서</td></tr><tr><td align="center">2</td><td>전선단자 세트</td></tr><tr><td align="center">3</td><td>산소/가스 브레이징 토치</td></tr><tr><td align="center">4</td><td>냉매</td></tr><tr><td align="center">5</td><td>검은색 보온재</td></tr><tr><td align="center">6</td><td>방염포</td></tr><tr><td align="center">7</td><td>동관 충전 밸브 (Copper Tube Charging Valve)</td></tr><tr><td align="center">8</td><td>동관 커터</td></tr><tr><td align="center">9</td><td>브레이징 용접봉</td></tr><tr><td align="center">10</td><td>브레이징 토치</td></tr><tr><td align="center">11</td><td>동관 확관기</td></tr></tbody></table>
+<table><thead><tr><th width="75" align="center">번호</th><th>부품</th></tr></thead><tbody><tr><td align="center">1</td><td>컴프레셔</td></tr><tr><td align="center">2</td><td>전선단자 세트</td></tr><tr><td align="center">3</td><td>산소용접 세트</td></tr><tr><td align="center">4</td><td>냉매가스</td></tr><tr><td align="center">5</td><td>검은색 보온재</td></tr><tr><td align="center">6</td><td>방염포</td></tr><tr><td align="center">7</td><td>동관 충전 밸브 (Copper Tube Charging Valve)</td></tr><tr><td align="center">8</td><td>동관 커터/동관 벤더</td></tr><tr><td align="center">9</td><td>산소 용접봉</td></tr><tr><td align="center">10</td><td>토치</td></tr><tr><td align="center">11</td><td>동관 확장기</td></tr></tbody></table>
 
 **전선단자 세트**
 
-<img src=".gitbook/assets/imagesimage6.png" alt="전선단자 세트" width="375">
+<img src=".gitbook/assets/imagesimage6.png" alt="콘덴서" width="375">
 
-<img src=".gitbook/assets/imagesimage16.png" alt="준비물" width="375">
+<img src=".gitbook/assets/imagesimage16.png" alt="단자대" width="375">
 
-<img src=".gitbook/assets/imagesimage9.png" alt="준비물" width="375">
+<img src=".gitbook/assets/imagesimage9.png" alt="단자 커버" width="375">
 
-<img src=".gitbook/assets/imagesimage12.png" alt="준비물" width="375">
+<img src=".gitbook/assets/imagesimage12.png" alt="고무발판" width="375">
 
-## 컴프레서 교체 절차
+## 컴프레셔 교체 절차
 
 {% stepper %}
 {% step %}
 ## 단자 커버 및 보온재 제거
 
-컴프레서 후면의 **단자 커버**를 분리합니다.
+컴프레셔 후면의 **단자 커버**를 분리합니다.
 
 동관에 감겨 있는 **검은색 보온재**를 제거합니다.
 {% endstep %}
 
 {% step %}
-## 기존 및 새 컴프레서 비교
+## 기존 및 새 컴프레셔 비교
 
 새 컴프레서와 기존 컴프레서를 비교하여 다음 사항을 확인합니다.
 
@@ -70,8 +70,8 @@
 
 비교가 완료되면 동관의 분리 방법을 결정합니다.
 
-* **방법 A** — 브레이징 부위를 가열하여 동관을 분리합니다.
-* **방법 B** — 동관을 절단하여 분리합니다.
+* **방법 A** — 산소용접기를 이용하여 동관 접합부를 가열하여 분리합니다.
+* **방법 B** — 동관을 커터기를 이용하여 절단합니다.
 
 <img src=".gitbook/assets/imagesimage19.png" alt="동관 절단 방식 예시" width="375">
 
@@ -81,25 +81,25 @@
 {% step %}
 ## 고정 볼트 분리
 
-컴프레서를 고정하고 있는 **고정 볼트**를 모두 분리합니다.
+컴프레셔를 고정하고 있는 **고정 볼트**를 모두 분리합니다.
 {% endstep %}
 
 {% step %}
-## 동관 충전 밸브 브레이징
+## 동관 충전 밸브
 
-새 컴프레서에 **동관 충전 밸브**를 먼저 브레이징합니다.
+새 컴프레셔에 **동관 충전 밸브**를 먼저 분리합니다.
 
 {% hint style="danger" %}
-**주의사항** — 브레이징 작업 전에 반드시 충전 밸브 내부의 **밸브 코어**를 먼저 분리한 후 작업을 진행해야 합니다. 밸브 코어를 분리하지 않고 브레이징할 경우, 고온으로 인해 밸브 코어가 손상될 수 있으며 이후 냉매를 정상적으로 충전할 수 없습니다.
+**주의사항** — 작업 전에 반드시 충전 밸브 내부의 **밸브 코어**를 먼저 분리한 후 작업을 진행해야 합니다. 밸브 코어를 분리하지 않고 동관을 가열할 경우, 고온으로 인해 밸브 코어가 손상될 수 있으며 이후 냉매를 정상적으로 충전할 수 없습니다.
 {% endhint %}
 
-![동관 충전 밸브 브레이징](.gitbook/assets/imagesimage10.png)
+![동관 충전 밸브 코어](.gitbook/assets/imagesimage10.png)
 {% endstep %}
 
 {% step %}
-## 동관 절단 및 브레이징
+## 동관 절단 및 가열
 
-기존 동관의 길이와 직경을 확인한 후, 필요한 만큼 절단하여 브레이징을 진행합니다.
+기존 동관의 길이와 직경을 확인한 후, 필요한 만큼 절단하여 가열을 진행합니다.
 
 <figure><img src=".gitbook/assets/Image_20260806144025_306_2.png" alt=""><figcaption></figcaption></figure>
 
@@ -109,16 +109,16 @@
 
 <img src=".gitbook/assets/imagesimage22.png" alt="동관 작업" width="375">
 
-브레이징 작업 전에 다음 사항을 확인합니다.
+작업 전에 다음 사항을 확인합니다.
 
 * 동관 길이 조정
 * 동관 각도 조정
-* 확관 필요 여부 확인
+* 확장 필요 여부 확인
 
-필요한 경우 동관을 확관한 후 브레이징 작업을 진행합니다.
+필요한 경우 동관을 확관한 후 가열 작업을 진행합니다.
 
 {% hint style="warning" %}
-**브레이징 주의사항** — 가장 안쪽 동관을 브레이징할 때에는 뒤쪽에 **PCB**가 위치하고 있으므로, 불꽃이 PCB에 직접 닿지 않도록 용접 각도를 조정하여 작업해야 합니다.
+**가열 시 주의사항** — 가장 안쪽 동관을 가열할 때에는 뒤쪽에 **PCB 기판이** 위치하고 있으므로, 불꽃이 기판에 직접 닿지 않도록 용접 각도를 조정하여 작업해야 합니다.
 {% endhint %}
 
 브레이징 토치는 아래 사진과 같은 자세로 잡고 작업합니다.
